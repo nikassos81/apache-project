@@ -44,4 +44,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 - Inspired by tutorials on AWS EC2 and Apache setup.
-- Special thanks to the open-source community for their resources.
+- Special thanks to the open-source community for their resources. 
